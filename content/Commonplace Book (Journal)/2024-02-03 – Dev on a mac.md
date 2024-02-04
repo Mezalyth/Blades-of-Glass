@@ -1,0 +1,45 @@
+#journal #dev
+
+Frustrating. Gods this is frustrating. 
+
+I know in a few months this will all default to the beautiful mundanity of routine but for now, it is maddening. 
+
+I'm getting into software development. Engineering. Whatever. Talking to rocks so they can flip the electricity inside of them and make computers do as my bidding but step 1 or step 0 even is just a lot of installing and then finding out things don't work QUITE yet.
+
+It was intimidating on the desktop so I moved this over to my laptop. Different OS, possibly simpler since Mac navigates folders in a cleaner way. Or I'm just used to it from work, who knows. [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh) uses a Mac and her coding knowledge is beastly. 
+
+Anyways. I downloaded [Homebrew](https://brew.sh/). Made sure I had Node.js and it turns out that computers just *have* NPM. I'm up on the versions. I got [VStudio Code](https://code.visualstudio.com/) and for funsies wanted to have a custom background. It recommended I install git for macOS. There's a terminal command to do it but nothing. 
+
+`$ brew install git`
+`$ isn't a valid command`
+
+Something about having to add things to PATH.
+
+...Just talked to ChatGPT. "$" is a symbol that means "type this in your command line"
+
+How in the fuck... Is that common knowledge? 
+
+"Copy and paste this line exactly"
+
+*Uses $ at start*
+
+"Oh don't actually use $"
+
+GAH ok. Ok ok. Ok. Cool. Fantastic. It worked. Bet it even would've worked on the desktop.
+
+---
+
+SSH generates random art. I'm not going to paste the art in here just in case but I think it's adorable that art simply exists everywhere. There's a mesh of magic and art and tech, and it's all the same.
+
+---
+
+It worked. https://mezalyth.github.io/Blades-of-Glass/ can now be accessed as a digital garden.
+
+### Lessons Learned:
+- It's okay to restart from scratch
+- Documentation first, tutorials second
+- When in doubt, do it anyway
+- It's okay to ask for help
+- Push through the agony of not knowing, and knowing that you don't know. The agony is a taut bow-string and the completion is the heart-lifting anticipation as the arrow looses into the sky. Fire more arrows.
+- Execution first, perfection after.
+
