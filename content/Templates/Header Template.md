@@ -1,6 +1,8 @@
 ---
 draft: false
 tags:
-  - journal
-  - dev
+  - tags
+  - go
+  - here
 ---
+Set as draft to hide.
