@@ -5,7 +5,7 @@ tags:
   - sanctuary
   - location
 ---
-# Sanctuary – Bastion of the Windup
+# Location:  Sanctuary – Bastion of the Windup
 
 ## Basic Information
 - **Name**: Sanctuary
