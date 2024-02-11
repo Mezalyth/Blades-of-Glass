@@ -1,10 +1,10 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-[saved-theme=dark] div {
+[saved-theme=dark] #texture {
     mix-blend-mode: overlay;
 }
-div {
+#texture {
     mix-blend-mode: hard-light;
     pointer-events: none;
     z-index: 999;
