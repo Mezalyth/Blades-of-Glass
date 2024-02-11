@@ -10,12 +10,12 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "mezalyth.github.io/Blades-of-Glass",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "DM Serif Display",
+        header: "Protest Revolution",
         body: "Lato",
         code: "IBM Plex Mono",
       },
