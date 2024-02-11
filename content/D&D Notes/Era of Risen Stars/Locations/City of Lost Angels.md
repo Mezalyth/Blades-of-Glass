@@ -4,7 +4,6 @@ tags:
   - dnd
   - location
 ---
-
 # Location: City of Lost Angels – The Victorian West
 
 ## Basic Information
@@ -14,7 +13,7 @@ tags:
 - **Affiliation**: Under the influence of the enigmatic Benefactor.
 
 ## Description
-- **Visual Description**: A city of stark contrasts, from the decaying grandeur of Victorian architecture in the center of the city, to the makeshift resilience of Wild West individualism. The inner city gleams with opulence, while the lower city bears the marks of struggle and survival. While those with influence and power reside on large swaths of property, the more downtrodden folk deal with sparse wooden construction or even tin ramshackle huts. The southern rim is home to a rail station.
+- **Visual Description**: A city of stark contrasts, from the decaying grandeur of Victorian architecture in the center of the city, to the makeshift resilience of wild west individualism. The inner city gleams with opulence, while the lower city bears the marks of struggle and survival. While those with influence and power reside on large swaths of property, the more downtrodden folk deal with sparse wooden construction or even tin ramshackle huts. The southern rim is home to a rail station.
 - **Atmosphere**: A place of mystery and duality, with the frontier-style buildings and wild west aesthetic blend with the upper echelon.
 - **Sounds and Smells**: The central city is filled with the sounds of laughter and music from the House of Generosity, mixed with the subtle fragrance of perfumes and exotic spices. In contrast, the lower city carries the sounds of industry, the clatter of carriage wheels on cobblestones, and the occasional shout, overlaid with the smells of smoke, sweat, and fear. Rich notes of leather and dust permeate the entirety.
 
@@ -56,7 +55,7 @@ An orphanage that has traveling surveyors and guardians who seek out abandoned o
 - **Technological Artifacts**: The city is the de-facto armory and technological research hub for the Steelbacks, relying on past technology and artifacts for inspiration, with the mysterious guiding hand of the Benefactor to shape and weaponize the people.
 
 ## Adventures and Quests
-- **Plot Hooks**: Investigating the disappearances, uncovering the nature of the mysterious device, or navigating the political intrigue of the Crystal Palace.
+- **Plot Hooks**: Investigating the disappearances, uncovering the nature of the mysterious device, or navigating the political intrigue of the House of Generosity.
 - **Challenges**: Bridging the societal divide, confronting the Benefactor's agents, or dealing with the moral dilemmas posed by the city's duality.
 - **Rewards**: Discovering ancient secrets, gaining powerful allies, or acquiring unique technological artifacts.
 

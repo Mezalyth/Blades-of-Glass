@@ -46,7 +46,7 @@ Also known as the moving glass, this mysterious and vast body of water is renown
 The town's morgue and research facility, where the dead are given a final purpose, rumored to be home to an unseen creature within its rafters. Home of Birch.
 
 ## Dangers and Defenses
-- **Enemies and Monsters**: While the community itself is a peaceful haven, the surrounding areas are fraught with dangers from the Bonelands, the wastes, and the unpredictable Returning Ocean. The Steelbacks are known for raiding the deserts to the south.
+- **Enemies and Monsters**: While the community itself is a peaceful haven, the surrounding areas are fraught with dangers from the Bonelands, the wastes, and the unpredictable Returning Ocean. The [[Steelbacks]] are known for raiding the deserts to the south.
 - **Traps and Hazards**: The natural hazards of a post-apocalyptic world, along with the potential threats from untamed magical artifacts within Libra Ria.
 - **Defensive Measures**: The unity and cooperation of its inhabitants serve as Sanctuary's primary defense, along with the specialized knowledge and capabilities of volunteer fighters.
 
