@@ -20,4 +20,4 @@ tags:
 ## Notes
 The Gem of Life has become colloquially known as "the orb", a floating sphere that now sits in the [[Sanctuary#Libra Ria]]. An item that was taken from the Fortress of Steel that was once used to sustain and provide life for the [[Steelbacks]]. It is one of six known artifacts that all link to each other magically.
 
-Touching the Gem of Life mentally connects those who touch it with the resident consciousness, RKTR. It also seems to have connected itself to [[GenCon]] via telepathic link.
+Touching the Gem of Life mentally connects those who touch it with the resident consciousness, [[RKTR]]. It also seems to have connected itself to [[GenCon]] via telepathic link.
