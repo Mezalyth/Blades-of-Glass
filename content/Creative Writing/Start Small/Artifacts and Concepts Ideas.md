@@ -7,4 +7,9 @@ The sword takes on whatever shape best suits the wielder, and tears into reality
 Robotic mech-dogs that are piloted by being "eaten"
 
 ## Templefael
-Pieces of the sky that crumble down to 
+Pieces of the sky that crumble down to the surface.
+
+## Sunlit Lands
+The world is covered in remnants of an ancient leviathan of a machine that was taken out by a solar flare, ending the rule of AI over humanity. This started many religions that worshipped a sun god, and continent-wide ruins of the inner workings of the machine rest on the surface for exploration and salvage.
+
+The sun's intensity has increased to alarming levels of UV radiation to the point where standing in it will burn your skin, melt buildings, and cause machines to malfunction. Shadowcasters are employed to help protect travellers.
