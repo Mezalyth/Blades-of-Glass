@@ -1,4 +1,6 @@
 ## Hemlock the Witch
+Colburn. 
+
 A caster that was burned at the stake. A former Wing Commander of the Falconyx, skilled with a spear and well read and intelligent. Master strategist and skilled magic user.
 
 Rescued and cared for after his burning. His right mouth and cheekbones are burned red, with a threaded scar that travels down his throat and across his chest and down his legs. 
@@ -11,6 +13,8 @@ A vampire with a blood-hydraulic brass left arm. Her skilled engineering and mec
 Hemlock was able to provide healing during integration and heart-ignition, as well as decorate the prosthetic.
 
 She found him after his burning and nursed him back to a level of health that created a close bond. 
+
+Her vampirism weakens her in the sun and she feeds in order to combat the sickness from overtaking her body. 
 
 ## Alexander Valtrade
 Long dark hair and a face full of angles and avian features. Strong commander of the Thunderlight. 

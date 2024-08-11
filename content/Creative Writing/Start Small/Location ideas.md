@@ -7,6 +7,8 @@ Archelementals stepped in and destroyed much of the population as arsenals of st
 
 Warring lands exist.
 
+### Caerwood
+
 ### Soldanis
 
 ### Heigra
@@ -18,6 +20,10 @@ Warring lands exist.
 ### Deolorea
 
 
-## The Conflict
-There's always a war.
+## Halo Two
+A flying city that hosts the Novus Labs. 
+
+### Novus Laboratories
+
+## Caerwood
 

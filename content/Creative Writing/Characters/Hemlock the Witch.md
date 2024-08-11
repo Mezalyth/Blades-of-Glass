@@ -1,49 +1,11 @@
-### Basic Information
+Hemlock the Witch is a warlock patronized by a shadow on the moon by the name of Lore. He can cast shadows into weaponry, as well as light into beams. He can move from shadow to shadow instantly. He talks to his hat, which is made from the skin of his deceased wife, and is friends with Starsinger the werewolf and Scarlet the vampire.
 
-- **Name**: Hemlock, the Witch of the Woods, the Screaming One, Voicebreaker, Smokey, Lunatic. Bluefire. Kestrel.
-- **Age**: Late twenties
-- **Occupation**: Healer in the woods. By appointment only.
-- **Role in Story**: Main character.
+Formerly part of the Solar Blade as a Wordsmith. Solar Blades were contingents of the king's guard that worked in teams. Wordsmiths could cast magic based on forged spells and wordplay, taking concepts and transforming them into workable manifestations of intent.
 
-### Appearance
+Solar Blades were deployed from airships, often called the Corona.
 
-- **Physical Description**: Blonde short thick hair, bright green eyes. Scarred right mouth and edge of eye. A red burn mark threads down his neck and over most of his body.
-- **Style of Dress**: Loose garments with tight or wrapped sleeves. Mostly a white linen shirt and brown traveling trousers with a waxed canvas travel sack and a dark red cloak. Wide brimmed brown hat made of leather.
-- **Demeanor**: Quiet, shy, and helpful. Curious. Stares a lot.
-
-### Personality
-
-- **Traits**: Curious, intelligent, clever, witty.
-- **Values and Beliefs**: There is always a good ending. 
-- **Fears and Flaws**: Fears fire and crowds. 
-
-### Abilities and Skills
-
-- **Talents**: Skilled caster and fighter. Focuses healing. 
-- **Challenges**: Fear of fire causes distress. Can't let go of past.
-
-### Background
-
-- **Family and Early Life**: Decent family, loving sister. 
-- **Education and Training**: Went to training academy and worked hard for it to rise up in the ranks of FALCONYX (Falcon Onyx) and be an excellent fighter.
-- **Key Life Events**: Their burning at the stake.
-
-### Motivations and Goals
-
-- **Immediate Goals**: What they are currently striving to achieve.
-- **Life Ambitions**: Long-term dreams and aspirations.
-
-### Relationships
-
-- **Significant Relationships**: Key friendships, rivalries, or familial ties.
-- **Network**: Their social or professional circle and its impact on their life.
-
-### Role in the Plot
-
-- **Main Conflicts**: Conflicts they are involved in and their stakes.
-- **Growth and Change**: How they evolve throughout the story.
-
-### Miscellaneous
-
-- **Secrets**: Hidden aspects that can drive the plot forward.
-- **Quirks**: Unique habits or behaviors that make them memorable.
+He was part of a Prominence, or team, often structured as such:
+- Wordsmith - spellcaster, outfitter, artificer, tools on the spot
+- Aetherknight - agile fighter, able to pull weaponry out of pocket dimensions
+- Vitalis - healer, potion mixer, poisoner, greaser
+- Aegis - able to forge light into forcefields

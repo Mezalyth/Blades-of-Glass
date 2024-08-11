@@ -10,6 +10,9 @@ A burned witch steps back into a society he was exiled from to face a threat to 
 - Environmentalism
 - Colonialism
 
+### Plot Points
+
+
 
 
 
