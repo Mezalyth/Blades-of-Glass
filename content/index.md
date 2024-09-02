@@ -6,7 +6,9 @@ This page should be https://mezalyth.github.io/Blades-of-Glass
 
 To push updates to Github (you have to crack open a terminal for it.)
 
-`npx quartz sync` 
+```Copy
+npx quartz sync
+```
 
 To preview it locally before syncing, use `npx quartz build --serve` which will run locally. Visit http://localhost:8080/ to see.
 
