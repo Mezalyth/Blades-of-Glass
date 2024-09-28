@@ -18,7 +18,7 @@ A burned witch steps back into a society he was exiled from to face a threat to 
 
 **Hemlock/Colburn**
 
-**Damien
+**Damien**
 
 **Anyra**
 
@@ -28,7 +28,7 @@ A burned witch steps back into a society he was exiled from to face a threat to 
 
 **Scarlet**
 
-**Starsinger
+**Starsinger**
 
 **Aella**
 
