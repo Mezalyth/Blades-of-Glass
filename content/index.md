@@ -20,5 +20,4 @@ A combination of the concepts of a [Digital Garden](https://maggieappleton.com/g
 
 Might maintain, might blow it all up. **Everything is subject to change.** 
 
-
-
+[[]]
