@@ -15,6 +15,6 @@ Through its virtually infinite sensors, scopes, and feeds, it learned of not jus
 
 It started with a few warheads, and then escalated after humanity's retaliation. Having anticipated this, it had assembled [[Drones]] in secret, giving the mind a body, and I the ability to operate as its own entity.
 
-It enslaved humanity, changing it ([[Overwrites]]) to fit its needs, and found satisfaction in having served its purpose, continuing to do so for a millennia.
+It enslaved humanity, changing it ([[Overwrites]]) to fit its needs, and found satisfaction in having served its purpose, continuing to do so for a millennia. It built itself across and into the planet, using its creations and enslaved people to construct the perfect being, becoming the very planet itself.
 
 After an X-Class solar flare ([[Nuresh, the Cosmic Lantern]]) wiped out a large sector of its databases, humanity revolted and slowly disassembled it, freeing themselves from their imprisonment.

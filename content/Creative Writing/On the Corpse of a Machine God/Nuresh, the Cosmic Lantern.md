@@ -22,5 +22,6 @@ A pantheon of gods follow her path, helping to guide humanity away from the arti
 - Oppeith - The goddess of anger, rage, and blood
 - Prauss - The goddess of clarity of mind, logic, and peace
 - Khell - The goddess of endings, finality, and death
+- Ura - The goddess of nature, earth, and growth
 - Bareth - The goddess of sleep, dreaming, and wilderness
 
