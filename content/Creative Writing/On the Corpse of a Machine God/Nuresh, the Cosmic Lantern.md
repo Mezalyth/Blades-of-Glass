@@ -25,3 +25,4 @@ A pantheon of gods follow her path, helping to guide humanity away from the arti
 - Ura - The goddess of nature, earth, and growth
 - Bareth - The goddess of sleep, dreaming, and wilderness
 
+The [[Circle of the Solar Goddess]] is a group of protectors guided by her light.

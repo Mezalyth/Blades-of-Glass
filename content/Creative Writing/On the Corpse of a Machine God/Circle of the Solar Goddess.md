@@ -13,8 +13,8 @@ The varying branches are called rays, each branch operating independently of eac
 
 #### Terminal Knights
 
-The [[Terminal Knights]] are Warriors who fight for Nuresh, wielding Solar Flares as spiritual weapons of light.
+The [[Terminal Knights]] are Warriors who fight for Nuresh, wielding Solar Flares as spiritual weapons of light. Their armor is a type of living liquid, ferrofluid, that reshapes itself to adapt to threats.
 
 #### Fyrwyl
 
-Archivists who protect and sanction old data logs from I, keeping the information safe and protected in an attempt to prevent anyone from recreating the machine god.
+Archivists who protect and sanction old data logs from I, keeping the information safe and protected in an attempt to prevent anyone from recreating the machine god. It's rumored that they use ancient tech to create armor and weapons for the Terminal Knights.
