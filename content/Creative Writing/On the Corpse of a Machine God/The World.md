@@ -35,4 +35,4 @@ They knew they would lose this war, and constructed a plan. Harnessing the power
 
 The worlds of magic and science were separated, and a relative peace claimed the lands. The surface world regained its magical supremacy, and technological relics were being destroyed or abandoned in hopes that the world would forget them.
 
-High above, technology grew. Mastery over science allowed the Machinists to expand, grow, and create other floating cities where they would live in relative peace.
+High above, technology grew. Mastery over science allowed the Machinists to expand, grow, and create other [[Crowns, the Floating Cities]] where they would live in relative peace.
