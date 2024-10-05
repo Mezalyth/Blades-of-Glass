@@ -18,3 +18,10 @@ And then he woke up.
 In his rage and confusion, he wreaked havoc, killing everyone in sight. His explosive electric power burnt the tips of his fingers as he reached out in anger, casting his rage forward to destroy anyone who obstructed his path on his journey to find Maya.
 
 The lab was destroyed and he ran away, seeking the edge of the world.
+
+### Known Abilities
+- Generate and conduct lightning
+- Interface with databases
+- Read surface thoughts based on electric neural activity
+- Split his mind to occupy other machines
+- Float using electric fields
