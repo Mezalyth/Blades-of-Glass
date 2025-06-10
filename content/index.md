@@ -21,4 +21,4 @@ A combination of the concepts of a [Digital Garden](https://maggieappleton.com/g
 Might maintain, might blow it all up. **Everything is subject to change.** 
 
 ---
-On the side, I'm building [[The World]] and a curriculum [[0.0 Combined Software Engineering and Cybersecurity Curriculum]] for myself.
+On the side, I'm building [[The World]] and a curriculum [[0.0 Combined Software Engineering and Cybersecurity Curriculum]] for myself. 

@@ -15,6 +15,7 @@ tags:
 
 ### Tools
 - https://gist.github.com/ -  pastebin-style GitHub
+- https://www.svgrepo.com/ - royalty-free SVGs
 
 ### Challenges
 - https://projecteuler.net/ - problem sets

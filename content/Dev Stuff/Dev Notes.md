@@ -19,6 +19,14 @@ https://www.nand2tetris.org/ - Chipset programming
 }
 ```
 
+## VS Code Shortcuts
+1. Ctrl+X = Cut line (empty selection) You can erase the whole line you selected.
+2. Alt+ ↑ / ↓ = Move line up/down. 
+3. Shift+Alt + ↓ / ↑ = Copy line up/down. 
+4. Ctrl+Shift+K = Delete line. 
+5. Home / End = Go to beginning/end of line.
+6. Ctrl+Home =Go to beginning of file.
+7. Ctrl+End =Go to end of file.
 
 ## Projects
 - [ ] Pomodoro timer
