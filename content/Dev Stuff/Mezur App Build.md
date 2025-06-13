@@ -492,4 +492,4 @@ Figma Link goes here
 - Animal Crossing mixed with Stardew Valley aesthetic
 - Paper, cloth, crafty visuals
 - Relaxed, unintrusive environment with subtlety
-- Data heavy, focus on clarity and let data breathe
+- Data heavy, focus on clarity and whitespace to avoid eye strain and fatigue
