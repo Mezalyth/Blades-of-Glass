@@ -5,7 +5,7 @@ tags:
   - seam-app
   - wip
 ---
-Kat, upon seeing the workflow:
+Kat, upon seeing the workflow: 
 >Yoooo that looks awesome. The workflow sounds exactly like what I was hoping for!
 
 ## Information Architecture
@@ -487,3 +487,8 @@ Kat is a skilled seamstress and maker based in Las Vegas, specializing in custom
 ### High-Fidelity Prototype
 
 Figma Link goes here
+
+#### Brand Notes
+- Animal Crossing mixed with Stardew Valley aesthetic
+- Paper, cloth, crafty visuals
+- Relaxed, unintrusive environment
