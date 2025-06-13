@@ -491,4 +491,5 @@ Figma Link goes here
 #### Brand Notes
 - Animal Crossing mixed with Stardew Valley aesthetic
 - Paper, cloth, crafty visuals
-- Relaxed, unintrusive environment
+- Relaxed, unintrusive environment with subtlety
+- Data heavy, focus on clarity
