@@ -25,8 +25,8 @@ https://www.nand2tetris.org/ - Chipset programming
 3. Shift+Alt + ↓ / ↑ = Copy line up/down. 
 4. Ctrl+Shift+K = Delete line. 
 5. Home / End = Go to beginning/end of line.
-6. Ctrl+Home =Go to beginning of file.
-7. Ctrl+End =Go to end of file.
+6. Ctrl+Home = Go to beginning of file.
+7. Ctrl+End = Go to end of file.
 
 ## Projects
 - [ ] Pomodoro timer
@@ -50,3 +50,6 @@ https://www.nand2tetris.org/ - Chipset programming
 	- Set die type
 	- Set die quantity
 	- Advantage/Disadvantage
+
+# React
+REACT / DOM: Tree of branching components as hierarchical organization
